@@ -3,10 +3,10 @@
     This code is run on Python 3.6 in conda virtual environment. Please install all the python dependencies using **requirements.txt** 
 2. ### Project Motivation
     My goal is to perform descriptive analysis on data from one of the most popular sport leagues in India called the Indian Premier League. This is a Cricket League that is played every summer in India and one of the most watched sporting leagues in the world. League data is collected for the year range 2008-2019. This is a descriptive analysis of the league data which aims to introduce the league to the unintiated. Questions addressed are
-        - How many teams participated in the league every season? How many seasons each team participated in and who won the championship most number of times
-        - Who is the better team in terms of winning percentages and captain smartness - an inhouse metric of captain intelligence!? 
-        - Check the trends of the two metrics above based on season
-        - There is a hypothesis that teams to tend accelerate - score at a higher average - post 15 overs. Perform a statistical test to check the validity of this claim 
+     - How many teams participated in the league every season? How many seasons each team participated in and who won the championship most number of times
+     - Who is the better team in terms of winning percentages and captain smartness - an inhouse metric of captain intelligence!? 
+     - Check the trends of the two metrics above based on season
+     - There is a hypothesis that teams to tend accelerate - score at a higher average - post 15 overs. Perform a statistical test to check the validity of this claim 
 3. ### Files and their description
     * README.md - This file 
     * ipldata - Directory with all the data used for this analysis. Includes two csv files 
