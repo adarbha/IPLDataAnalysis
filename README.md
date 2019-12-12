@@ -16,9 +16,9 @@
     *  DataExploration.ipynb - The master notebook where analysis is performed. A medium article is written based on the analysis done in this notebook
     *  requirements.txt - Python dependencies text file
 4. ### Results
-   * Team participation summarized through bar charts
-   * Winning percentages and captain smartness metric plotted as trend lines
-   * One-tailed t-test is performed on pre and post 15 over data to reject Null Hypothesis in favour of alt. hypothesis that post 15 over run rate is greater</b>
+   - Team participation summarized through bar charts
+   - Winning percentages and captain smartness metric plotted as trend lines
+   - One-tailed t-test is performed on pre and post 15 over data to reject Null Hypothesis in favour of alt. hypothesis that post 15 over run rate is greater</b>
     The results of this analysis have been communicated in a carefully curated article in Medium [here](https://medium.com/@arjunsdarbha/ipl-descriptive-analysis-d142ae11d5f2).
 5. ### Acknowledgements
     Credit to Kaggle user **Navaneesh Kumar** for providing the datasets. Licensing for the data can be found in the Kaggle page [here](https://www.kaggle.com/nowke9/ipldata/). Please feel free to use other parts of the code.
